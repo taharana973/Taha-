@@ -1,0 +1,66 @@
+header{
+
+    text-align: center;
+    background-color: darkblue;
+    color: aliceblue;
+
+}
+body{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+.Login-container{
+    color: blue;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 24px;
+}
+button{
+    background-color: white;
+    border-color:rgb(8, 8, 201) ;
+    color:rgb(8, 8, 201);
+    padding: 10px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 13px;
+}
+.Login{
+
+    width: 30%;
+    margin-left: 35%;
+    background-color: blue;
+    text-align: center;
+    border-radius: 5px;
+}
+.Login_form{
+    width: 30%;
+    border: 1px solid;
+    text-align: center;
+    margin-left: 35%;
+    border-radius: 5px;
+
+}
+input{
+  width: 90%;
+  padding: 12px 15px;
+  margin: 8px 0;
+  box-sizing: border-box;
+
+}
+label{
+    text-align: left;
+}
+.singup_form{
+    width: 30%;
+    border: 1px solid;
+    text-align: center;
+    margin-left: 35%;
+    border-radius: 10px;
+}
+.singup_form span {
+    font-size: 10px;
+
+}
